@@ -31,4 +31,9 @@ return {
     event = "User AstroFile",
     lazy = false,
   },
+  {
+    "nvim-treesitter/nvim-treesitter-context",
+    event = "User AstroFile",
+    lazy = false,
+  },
 }
